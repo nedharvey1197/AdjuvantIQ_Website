@@ -20,6 +20,8 @@ out/
 *.swp
 *.swo
 .DS_Store
+.specstory/
+.cursorindexingignore
 
 # AWS Amplify
 amplify/\#current-cloud-backend
